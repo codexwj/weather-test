@@ -1,0 +1,9 @@
+server:
+  port: 18815
+
+spring:
+  datasource:
+    url: jdbc:mysql://home.cs9uvu8jkhsm.us-west-2.rds.amazonaws.com/air_new?useUnicode=yes&characterEncoding=UTF-8&allowMultiQueries=true&useSSL=false
+    driver-class-name: com.mysql.jdbc.Driver
+    username: root
+    password: zxcv1234
